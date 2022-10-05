@@ -333,6 +333,7 @@ section:target {
 .timeline-box {
     position: relative;
     left: 1%;
+    padding-left:15px;
     margin: 5px;
     width: 45%;
     /* min-width: 350px; */
@@ -363,6 +364,7 @@ section:target {
         width: 90%;
         position: relative;
         left: 1%;
+        padding-left:7px;
         margin: 5px;
         /* min-width: 350px; */
         height: 24%;
