@@ -482,7 +482,7 @@ section:target {
 }
 
 ::placeholder {
-    color: white;
+    color: yellow;
     opacity: .5;
     font-size: 1.1rem;
 
